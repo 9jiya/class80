@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+input{
+    margin: 10px;
+}
+#b2{
+    display: none;
+}
+#ans1{
+    border: 1px solid black;
+    padding: 10px;
+    background-color: deeppink;
+    border-radius: 10px;
+    width: 50%;
+    text-align: center;
+}
+#ans2{
+    border: 1px solid black;
+    padding: 10px;
+    background-color: yellow;
+    border-radius: 10px;
+    width: 50%;
+    text-align: center;
+}
